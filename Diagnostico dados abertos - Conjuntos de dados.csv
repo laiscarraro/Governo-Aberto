@@ -1,6 +1,9 @@
-Link,Variáveis abordadas,Tipo de transparência,Data,Contagem de links,Órgão,Disponibilidade
-http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx,Furtos; Homicídio/Tentativa de Homicídio; Lesões Corporais; Lesão Corporal Culposa por Acidente de Trânsito,Ativa,2019-2021 (por mês),1,Secretaria de Segurança Pública,Disponível
-http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx,"Existência de semáforo, Acidentes de trânsito, Reclamação de faixa de pedestre apagada",Ativa,2019,1,SMT/CET,Disponível
-http://www.larguradopasseio.com/?utm_medium=website&utm_source=archdaily.com.br#14.2/-23.50639/-46.52625,Largura da calçada,Ativa,2019,2,SMT/CET,Disponível
-https://sdpa.shinyapps.io/sdpa/,Furtos; Homicídio/Tentativa de Homicídio; Lesões Corporais; Lesão Corporal Culposa por Acidente de Trânsito,"Transparência Colaborativa (Dados Públicos, disponibilizados em plataforma de uma organização da sociedade civil)",Série 2002-2021,2,Instituto Sou da Paz,Disponível
-Pedido do E-Sic sobre a sinalização semafórica na Vila Cisper,Existência e condição dos semáforos,Passiva,2021,3,CET,Disponível
+Link,Variáveis abordadas,Tipo de transparência,Data,Contagem de links,Órgão,Disponibilidade,
+http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx,Furtos; Homicídio/Tentativa de Homicídio; Lesões Corporais; Lesão Corporal Culposa por Acidente de Trânsito,Ativa,2019-2021 (por mês),1,Secretaria de Segurança Pública,Disponível,
+http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx,"Existência de semáforo, Acidentes de trânsito, Reclamação de faixa de pedestre apagada",Ativa,2019,1,SMT/CET,Disponível,
+http://www.larguradopasseio.com/?utm_medium=website&utm_source=archdaily.com.br#14.2/-23.50639/-46.52625,Largura da calçada,Ativa,2019,2,SMT/CET,Disponível,
+https://sdpa.shinyapps.io/sdpa/,Furtos; Homicídio/Tentativa de Homicídio; Lesões Corporais; Lesão Corporal Culposa por Acidente de Trânsito,"Transparência Colaborativa (Dados Públicos, disponibilizados em plataforma de uma organização da sociedade civil)",Série 2002-2021,2,Instituto Sou da Paz,Disponível,
+Pedido do E-Sic sobre a sinalização semafórica na Vila Cisper,Existência e condição dos semáforos,Passiva,2021,3,CET,Disponível,
+http://dados.prefeitura.sp.gov.br/sv/dataset/iluminacao-publica/resource/441a59c4-44d7-4428-8918-0560fdf145c8,Iluminação pública,Ativa,2015,2,Portal de dados abertos - Prefeitura de São Paulo,Disponível,Formato CSV*
+http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx,Iluminação pública,Ativa,2016,1,Prefeitura de Sâo Paulo,Disponível,
+http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx,Largura da calçada,Ativa,2019,1,Prefeitura de Sâo Paulo,Disponível,
