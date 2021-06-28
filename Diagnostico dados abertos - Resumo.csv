@@ -1,11 +1,11 @@
 ,Variável,Tipo majoritário de transparência,Dado mais recente,Média da contagem de links,Porcentagem de disponibilidade
 BLOCO - INFRAESTRUTURA,Largura das Calçadas,Ativa,2019,2,100%
 ,Iluminação pública,Ativa,2016,2,100%
-,Faixa de Pedrestes,,,,
+,Faixa de Pedrestes,Ativa,2021,2,
 ,Semáforos,Ativa/Passiva,2021,2,100%
-BLOCO - SEGURANÇA VIÁRIA,Homicídio Doloso por Acidente de Trânsito,,,,
-,Homicídio Culposo por Acidente de Trânsito,,,,
-,Lesão Corporal Culposa por Acidente de Trânsito,,,,
+BLOCO - SEGURANÇA VIÁRIA,Homicídio Doloso por Acidente de Trânsito,Ativa,maio/2021,1,100%
+,Homicídio Culposo por Acidente de Trânsito,Ativa,maio/2021,1,100%
+,Lesão Corporal Culposa por Acidente de Trânsito,Ativa,maio/2021,1,100%
 BLOCO - SEGURANÇA PÚBLICA,Latrocínio,Ativa ,abril/2021,1,100%
 ,Roubo - Outros,Ativa ,abril/2021,1,100%
 ,Furto - Outros,Ativa ,abril/2021,1,100%
